@@ -10,5 +10,5 @@ angle for the servos to move to.
 this demo does not work for real hardware but has a simulation of the actions using javascript
 
 if you want to see how the math.
-![Photo](https://imgur.com/5Plv4TS)
+![Photo](https://i.imgur.com/Au3N5oh.jpg)
 
