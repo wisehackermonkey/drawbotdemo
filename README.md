@@ -12,6 +12,7 @@ takes a cartesian (x,y) with lenths of the arms and turns them into
 angle for the servos to move to.
 this demo does not work for real hardware but has a simulation of the actions using javascript
 
+CREDIT ALL HARD MATH By Will. thanks dude
 if you want to see how the math.
 ![Photo](https://i.imgur.com/Au3N5oh.jpg)
 
